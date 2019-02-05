@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1549385328977.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "C6E6CBD8",
+    "lastKnownWriteTime" : 1549386405,
+    "last_content_update" : 1549386405067,
+    "path" : "C:/xApps/MIT_MicroMaster/C02-14.310x - Data Analysis/Intro/junkie.R",
+    "project_path" : "junkie.R",
+    "properties" : {
+        "cursorPosition" : "1,0",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
